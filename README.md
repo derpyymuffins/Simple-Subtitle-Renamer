@@ -4,7 +4,7 @@
 
 ## How To Use
 
-![](https://imgur.com/a/njmUvDb)
+![](https://imgur.com/a/njmUvDb.gif)
 
 - Place video files and subtitle files in the same folder.
 - Open the folder in the program
