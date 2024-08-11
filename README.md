@@ -4,7 +4,7 @@
 
 ## How To Use
 
-![Imgur](https://imgur.com/a/njmUvDb.gif)
+<img src='./misc/HowToUse.gif'>
 
 - Place video files and subtitle files in the same folder.
 - Open the folder in the program
